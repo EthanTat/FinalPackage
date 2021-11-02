@@ -1,0 +1,14 @@
+#' Prices of 50,000 round cut diamonds.
+#'
+#' A datas et containing the ID, gender, height, weight, and amount of physical activity.
+#'
+#' @format A data frame with 1000 rows and 5 variables:
+#' \describe{
+#'   \item{ID}{personal identitfication number}
+#'   \item{gender}{gender of individual}
+#'   \item{height}{height, in cm}
+#'   \item{weight}{weight, in kg}
+#'   \item{phys}{amount of physical activity}
+#'   ...
+#' }
+"project"
