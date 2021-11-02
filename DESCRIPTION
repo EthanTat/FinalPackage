@@ -21,3 +21,5 @@ Imports:
     ggplot2,
     magrittr,
     dplyr
+URL: https://github.com/EthanTat/FinalPackage
+BugReports: https://github.com/EthanTat/FinalPackage/issues
